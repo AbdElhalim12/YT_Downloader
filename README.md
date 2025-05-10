@@ -1,4 +1,4 @@
 # YT_Downloader
-multiple video qualities
-download available subtitles
-convert to mp3
+- multiple video qualities
+- download available subtitles
+- convert to mp3
